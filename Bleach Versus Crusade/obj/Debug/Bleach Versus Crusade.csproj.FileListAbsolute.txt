@@ -1,0 +1,11 @@
+D:\333\source\repos\Bleach Versus Crusade\Bleach Versus Crusade\bin\Debug\Bleach Versus Crusade.exe.config
+D:\333\source\repos\Bleach Versus Crusade\Bleach Versus Crusade\bin\Debug\Bleach Versus Crusade.exe
+D:\333\source\repos\Bleach Versus Crusade\Bleach Versus Crusade\bin\Debug\Bleach Versus Crusade.pdb
+D:\333\source\repos\Bleach Versus Crusade\Bleach Versus Crusade\obj\Debug\Bleach Versus Crusade.csproj.AssemblyReference.cache
+D:\333\source\repos\Bleach Versus Crusade\Bleach Versus Crusade\obj\Debug\Bleach Versus Crusade.csproj.SuggestedBindingRedirects.cache
+D:\333\source\repos\Bleach Versus Crusade\Bleach Versus Crusade\obj\Debug\Bleach_Versus_Crusade.Form1.resources
+D:\333\source\repos\Bleach Versus Crusade\Bleach Versus Crusade\obj\Debug\Bleach_Versus_Crusade.Properties.Resources.resources
+D:\333\source\repos\Bleach Versus Crusade\Bleach Versus Crusade\obj\Debug\Bleach Versus Crusade.csproj.GenerateResource.cache
+D:\333\source\repos\Bleach Versus Crusade\Bleach Versus Crusade\obj\Debug\Bleach Versus Crusade.csproj.CoreCompileInputs.cache
+D:\333\source\repos\Bleach Versus Crusade\Bleach Versus Crusade\obj\Debug\Bleach Versus Crusade.exe
+D:\333\source\repos\Bleach Versus Crusade\Bleach Versus Crusade\obj\Debug\Bleach Versus Crusade.pdb
